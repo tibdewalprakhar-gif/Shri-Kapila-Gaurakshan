@@ -230,6 +230,7 @@ h2.center{text-align:center;}
 }
 .about-copy p{color:var(--ink-soft); margin:0 0 16px;}
 .about-copy strong{color:var(--ink);}
+.about-copy .reg-no{font-weight:600; color:var(--saffron-deep);}
 .about-card{
   background:var(--white);
   border-radius:var(--radius);
